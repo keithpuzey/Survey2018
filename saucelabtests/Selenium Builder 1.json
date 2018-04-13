@@ -1,0 +1,168 @@
+{
+    "type": "script",
+    "seleniumVersion" : "2",
+    "formatVersion" : 2,
+    "steps" : [
+        {
+            "type": "get",
+            "url": "https://www.apple.com/"
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Mac"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Learn moreabout iMac Pro"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Tech Specs"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Mac"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "MacBook Pro"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "css selector",
+                "value": "span.ac-ln-menu-link.current"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Tech Specs"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Mac"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "MacBook"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Buy MacBook"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "xpath",
+                "value": "//label[@for='colorOptionGridGroup_MNYM2LL/A']/span[1]"
+            }
+        },
+        {
+            "type": "setElementSelected",
+            "locator": {
+                "type": "id",
+                "value": "colorOptionGridGroup_MNYM2LL/A"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "xpath",
+                "value": "//div[@class='as-bundleselection-centeralign']/div[1]/div/bundle-selector/div[3]/div[3]/div/div[4]/form/div/span/button"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "name",
+                "value": "add-to-cart"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Mac"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "MacBook Air"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "link text",
+                "value": "Buy Buy MacBook Air"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "xpath",
+                "value": "//div[@class='as-bundleselection-centeralign']/div[2]/div/bundle-selector/div[1]/div/div/img"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "xpath",
+                "value": "//div[@class='as-bundleselection-centeralign']/div[2]/div/bundle-selector/div[3]/div/div/div[4]/form/div/span/button"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "name",
+                "value": "add-to-cart"
+            }
+        },
+        {
+            "type": "clickElement",
+            "locator": {
+                "type": "name",
+                "value": "proceed"
+            }
+        },
+        {
+            "type": "print",
+            "text" : "Selenium Builder 1.json complete"
+        }
+    ],
+    "data": {
+        "configs": {},
+        "source" : "none"
+    },
+    "inputs" : [],
+    "timeoutSeconds" : 60
+}
