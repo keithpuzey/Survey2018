@@ -2,7 +2,11 @@
     "formatVersion": 1,
     "scripts": [
         {
-            "path": "Selenium Builder 4.json",
+            "path": "Test Cases 1.json",
+            "where": "local"
+        },
+        {
+            "path": "Test Cases 2.json",
             "where": "local"
         }
     ],
