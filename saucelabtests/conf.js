@@ -1,4 +1,4 @@
 exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['todo-spec.js','UI-Test2.js','UI-Test1.js']
+  specs: ['Test Cases 1.json','Test Cases 2.json']
 };
