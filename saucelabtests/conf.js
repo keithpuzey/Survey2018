@@ -3,5 +3,4 @@ exports.config = {
   concurrent: {
         specs: ['Protractor3.js','Protractor1.js','Protractor2.js']
     },
-  
 };
