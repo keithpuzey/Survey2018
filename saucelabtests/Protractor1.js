@@ -23,3 +23,5 @@ element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 element(by.css('label:nth-of-type(2)>input[name="answers"]')).click();
 // URL: 
 element(by.css('button>span:nth-of-type(1)>span')).click();
+    });
+});
