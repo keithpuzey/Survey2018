@@ -1,4 +1,4 @@
 exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['todo-spec.js','todo-spec2.js']
+  specs: ['_Protractor3.js','_Protractor1.js',_'Protractor2.js','_Protractor4.js']
 };
