@@ -2,15 +2,19 @@
     "formatVersion": 1,
     "scripts": [
         {
-            "path": "Selenium Builder 1.json",
+            "path": "_Protractor1.js",
             "where": "local"
         },
         {
-            "path": "Test Cases 1.json",
+            "path": "_Protractor2.js",
             "where": "local"
         },
         {
-            "path": "Test Cases 2.json",
+            "path": "_Protractor3.js",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor3.js",
             "where": "local"
         }
     ],
