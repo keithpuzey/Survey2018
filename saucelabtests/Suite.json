@@ -2,19 +2,79 @@
     "formatVersion": 1,
     "scripts": [
         {
-            "path": "_Protractor1.js",
+            "path": "Protractor1.js",
             "where": "local"
         },
         {
-            "path": "_Protractor2.js",
+            "path": "Protractor2.js",
             "where": "local"
         },
         {
-            "path": "_Protractor3.js",
+            "path": "Protractor3.js",
             "where": "local"
         },
         {
-            "path": "_Protractor3.js",
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
+            "where": "local"
+        },
+        {
+            "path": "_Protractor.txt",
             "where": "local"
         }
     ],
