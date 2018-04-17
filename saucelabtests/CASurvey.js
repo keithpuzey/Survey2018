@@ -3,7 +3,33 @@ describe('CDBU Modern Software Factory UI Test - Survey Environment', function()
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Matthew Zeff');
+element(by.css('input')).clear().sendKeys('Sean Ziraldo Caraccio');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Joe Waite');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -19,32 +45,6 @@ element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Harrison Lyons');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
@@ -55,7 +55,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Ethan Scot');
+element(by.css('input')).clear().sendKeys('Joe Andersson');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -63,33 +63,7 @@ element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Patrick Crump');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
@@ -107,247 +81,9 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Nicholas Tai');
+element(by.css('input')).clear().sendKeys('Isaac Clement');
 // URL: 
 element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Harry Chaton');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Aidan Ferdinando Bizerra');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Christopher Kono');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Billy Zeff');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Archie Diaz');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Daniel Terezinha Alves Inha');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Declan Choi');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Alex Takuda');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Aidan Freeze');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
 // URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
@@ -360,32 +96,10 @@ element(by.css('.css-wk8to2')).click();
 element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Logan Ni');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
 // URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
 
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
@@ -393,33 +107,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Tom Barnes');
-// URL: 
-element(by.css('button')).click();
-// URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-// URL: 
-element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
-// URL: 
-element(by.css('.css-wk8to2')).click();
-
-    });
-});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
-  it('should add a todo', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
-    element(by.css('input')).click();
-// URL: 
-element(by.css('input')).clear().sendKeys('Joshua Kalsbeek');
+element(by.css('input')).clear().sendKeys('Mohammed Bruinsma');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -427,7 +115,7 @@ element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
@@ -445,15 +133,15 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Joe Cross');
+element(by.css('input')).clear().sendKeys('Jamie Radcliffe');
 // URL: 
 element(by.css('button')).click();
 // URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
@@ -461,7 +149,7 @@ element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 
@@ -471,11 +159,141 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Connor Hampton');
+element(by.css('input')).clear().sendKeys('Jacob Place');
 // URL: 
 element(by.css('button')).click();
 // URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Harry Makgoba');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Owen Thayi');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Anthony Zucht');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Luca Maroga');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Mason Waddell');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
@@ -487,7 +305,33 @@ element(by.css('label:nth-of-type(3)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 // URL: 
-element(by.css('label:nth-of-type(1)>span:nth-of-type(1)>svg')).click();
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+
+    });
+});describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
+  it('should add a todo', function() {
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
+    element(by.css('input')).click();
+// URL: 
+element(by.css('input')).clear().sendKeys('Andrew deJoode');
+// URL: 
+element(by.css('button')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(4)>span:nth-of-type(1)>svg')).click();
+// URL: 
+element(by.css('.css-wk8to2')).click();
+// URL: 
+element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
 element(by.css('.css-wk8to2')).click();
 
