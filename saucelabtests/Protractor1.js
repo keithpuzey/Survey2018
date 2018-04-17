@@ -15,12 +15,11 @@ element(by.css('.css-wk8to2')).click();
 element(by.css('button>span:nth-of-type(1)>span')).click();// URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
 // URL: 
-    element(by.xpath('//button[contains(text(),"Next")]')).click();;
+element(by.css('.css-wk8to2')).click();
 // URL: 
 element(by.css('button>span:nth-of-type(1)>span')).click();// URL: 
 element(by.css('label:nth-of-type(2)>span:nth-of-type(1)>svg')).click();
-// URL: 
-    element(by.xpath('//button[contains(text(),"Finish")]')).click();
+element(by.css('.css-wk8to2')).click();
 // URL: 
 element(by.css('button>span:nth-of-type(1)>span')).click();
     });
