@@ -3,7 +3,7 @@ describe('CDBU Modern Software Factory UI Test - Survey Environment', function()
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Sean Ziraldo Caraccio');
+element(by.css('input')).clear().sendKeys('Bradley Maluleke');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -29,7 +29,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Joe Waite');
+element(by.css('input')).clear().sendKeys('Henry Mishra');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -55,7 +55,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Joe Andersson');
+element(by.css('input')).clear().sendKeys('Tom Cremers');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -81,7 +81,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Isaac Clement');
+element(by.css('input')).clear().sendKeys('Logan Fernando Bitencur');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -107,7 +107,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Mohammed Bruinsma');
+element(by.css('input')).clear().sendKeys('Aaron Zane');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -133,7 +133,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Jamie Radcliffe');
+element(by.css('input')).clear().sendKeys('Michael Brown');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -159,7 +159,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Jacob Place');
+element(by.css('input')).clear().sendKeys('Sam Musunuru');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -185,7 +185,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Harry Makgoba');
+element(by.css('input')).clear().sendKeys('Archie Powers');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -211,7 +211,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Owen Thayi');
+element(by.css('input')).clear().sendKeys('Harrison Deloy');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -237,7 +237,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Anthony Zucht');
+element(by.css('input')).clear().sendKeys('Kyle Breczinski');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -263,7 +263,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Luca Maroga');
+element(by.css('input')).clear().sendKeys('Ryan Summers');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -289,7 +289,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Mason Waddell');
+element(by.css('input')).clear().sendKeys('Jay Aich');
 // URL: 
 element(by.css('button')).click();
 // URL: 
@@ -315,7 +315,7 @@ element(by.css('.css-wk8to2')).click();
     browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
-element(by.css('input')).clear().sendKeys('Andrew deJoode');
+element(by.css('input')).clear().sendKeys('Jonathan Kilburn');
 // URL: 
 element(by.css('button')).click();
 // URL: 
