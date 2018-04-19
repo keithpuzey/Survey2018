@@ -1,6 +1,6 @@
 describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Lewis Napson');
@@ -26,7 +26,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Dylan Zucht');
@@ -52,7 +52,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Muhammad Kirchner');
@@ -78,7 +78,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Alfie Costanza');
@@ -104,7 +104,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Reece Fisk');
@@ -130,7 +130,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Declan Susan');
@@ -156,7 +156,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Alfie Roni da Silva Xavier');
@@ -182,7 +182,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Corey Hoople');
@@ -208,7 +208,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Ryan Santini');
@@ -234,7 +234,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Mohammed Mercier');
@@ -260,7 +260,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Michael Hansen');
@@ -286,7 +286,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Alex Wallek');
@@ -312,7 +312,7 @@ element(by.css('.css-wk8to2')).click();
     });
 });describe('CDBU Modern Software Factory UI Test - Survey Environment', function() {
   it('Test for Survey App', function() {
-    browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.ignoreSynchronization = true;    browser.get('http://survey.cdbu.io');
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Isaac Meinders');
