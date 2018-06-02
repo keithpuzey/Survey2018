@@ -1,6 +1,7 @@
 describe('CDBU Modern Software Factory UI Short Test - Survey Environment', function() {
   it('Test for Survey App', function() {
     browser.ignoreSynchronization = true;    browser.get('http://preprod.survey.cdbu.io');
+    browser.sleep(6000);
     element(by.css('input')).click();
 // URL: 
 element(by.css('input')).clear().sendKeys('Alfie Antoine');
